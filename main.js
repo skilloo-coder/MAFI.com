@@ -1,6 +1,6 @@
 console.log('Hello World!');
 
-alert('Desktop mode में खोले । ')
+alert('Desktop mode में खोले । Click पर click karke About us और Gallery पर जा सकते हैं। ')
 
 function myfunction() {
   var showhide = document.getElementById('mylinks');
